@@ -1,0 +1,1 @@
+del c:\Projetos\*.class /s
